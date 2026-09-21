@@ -1,4 +1,4 @@
-# ⚽ Day-02; Fitness Tracking Analysis
+# 🤸 Day-02; Fitness Tracking Analysis
 
 ## 📌 Business Overview & Objective; this analysis explores Fitness Tracking evaluation by Various Factors.
 
